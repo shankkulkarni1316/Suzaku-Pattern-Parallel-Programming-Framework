@@ -1,0 +1,4 @@
+# Suzaku-Pattern-Parallel-Programming-Framework
+Suzaku is a pattern parallel programming framework developed at UNC-Charlotte that enables programmers to create pattern-based MPI programs without actually writing MPI message passing code implicit in the patterns. The purpose of this framework is to simplify message passing programming and create better structured and scalable programs based upon established parallel design patterns. Our work focuses on teaching parallel programming using a pattern progaramming approach. Suzaku can be used to teach parallel programming before (or after) learning MPI. The structure of Suzaku programs is intentionally modeled on the thread-based OpenMP often taught in parallel programming courses, but using message-passing processes rather than threads.
+
+Link: https://webpages.uncc.edu/abw/coit-grid01.uncc.edu/Suzaku/index.html
